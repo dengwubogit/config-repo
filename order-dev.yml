@@ -18,3 +18,5 @@ server:
 
 env:
   dev
+lable:
+  release
