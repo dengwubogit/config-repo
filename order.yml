@@ -12,5 +12,5 @@ server:
   port: 8002
 
 girl:
-  name: caixukunctrl
+  name: ctrl
   age: 18
