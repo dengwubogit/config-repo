@@ -12,5 +12,5 @@ server:
   port: 8002
 
 girl:
-  name: caicai
+  name: cai
   age: 18
